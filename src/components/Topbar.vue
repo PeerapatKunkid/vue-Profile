@@ -14,8 +14,8 @@ defineProps({
   <nav>
     
        <RouterLink class="Category" to="/">ABOUT ME </RouterLink>| 
-       <RouterLink class="Category" to="/gallery"> GALLERY</RouterLink>
-       
+       <RouterLink class="Category" to="/gallery"> GALLERY</RouterLink> |
+       <RouterLink class="Category" to="/test">BUTTON TEST</RouterLink>
       </nav>
 </header>
 </template>

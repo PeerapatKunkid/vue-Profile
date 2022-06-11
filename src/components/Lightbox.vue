@@ -234,7 +234,7 @@ export default {
 }
 }
 
-@media screen and (min-width:779px){
+@media screen and (min-width:900px){
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
